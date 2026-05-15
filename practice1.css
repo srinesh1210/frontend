@@ -1,0 +1,18 @@
+body{
+    background-color:blue;
+}
+#main-heading{
+    color:rgb(255,45,0);
+}
+#sub-heading{
+    color:rgb(0,235,40);
+}
+#sub-sub-heading{
+    color:rgb(235,0,40);
+}
+button{
+    color:salmon;
+    width: 100px;
+    height: 50px;
+    background:red;
+}
